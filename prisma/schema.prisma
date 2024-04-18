@@ -11,7 +11,7 @@ generator client {
 
 datasource db {
   provider = "mysql"
-  url      = "mysql://root:VYwmTZqIWemglVKoIBhkDNvwUGteBYXg@monorail.proxy.rlwy.net:15629/railway"
+  url      = "mysql://root:rqvfeNqVBJNlTjZXsiRqcnGgwzSMyquv@monorail.proxy.rlwy.net:47228/railway"
 }
 
 model Users {
